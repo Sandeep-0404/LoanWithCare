@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         String ss;
         //hhh
         //new commit
-        int aa=56 ;
+        int aa=56;
     }
 }
