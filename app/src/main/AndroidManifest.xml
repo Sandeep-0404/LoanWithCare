@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Loan_help2">
         <activity
+            android:name=".Authentication.bank_details"
+            android:exported="true" />
+        <activity
+            android:name=".Authentication.sign_up"
+            android:exported="true" />
+        <activity
+            android:name=".Authentication.login"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity2"
             android:exported="true" />
         <activity
