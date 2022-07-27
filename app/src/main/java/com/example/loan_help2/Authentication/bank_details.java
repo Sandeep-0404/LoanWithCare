@@ -12,6 +12,6 @@ public class bank_details extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bank_details);
-        /////bank details//8989/ii/iugygyg/final
+        /////bank details//8989/ii/iugygyg/final/ffff
     }
 }
